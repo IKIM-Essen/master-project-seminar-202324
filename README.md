@@ -25,6 +25,23 @@ So far the module is planned as virtual only and a meeting takes place every mon
 | 13 | 22.01.2024 | Q&A - Help session | all |
 | 14 | 29.01.2024 | Final Presentations | Folker Meyer |
 
+## Presentation topics
+
+|Topic | Description |
+| :---: | :---: |
+| Bioinformatics and covid | Basics concerning SARS-CoV-2 analysis in bioinformatics |
+| Sequencing Technologies | Illumina, Nanopore etc. |
+| Quality control (QC) | Checking of data reliablility |
+| Trimming and filtering | Bias and error reduction |
+| Alignment 1 | Sequence analysis - Algorithm |
+| Alignment 2 | Sequence analysis - Implementation |
+| Assembly 1 | Reconstructing Sequences - Algorithm |
+| Assembly 2 | Reconstructing Sequences - Implementation |
+| Scaffolding | Linking of genomic sequences |
+| Assembly control | Ranking of assemblies |
+| Variant calling | Identification of represented variants|
+| Lineage Assignment | Identification of represented lineages |
+
 ## Contacts
    
 Dr. Simon Magin - simon.magin@uni-due.de          
