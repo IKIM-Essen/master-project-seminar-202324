@@ -49,6 +49,6 @@ Alexander Thomas  - alexander.thomas@uni-due.de, alexander.thomas@uk-essen.de
 Ann-Kathrin Brüggemann - ann-kathrin.brueggemann@uni-due.de, ann-kathrin.brueggemann@uk-essen.de      
 Adrian Doerr - adrian.doerr@uni-due.de, adrian.doerr@uk-essen.de       
 Josefa Welling - josefa.welling@uni-due.de, josefa.welling@uk-essen.de      
-Prof. Folker Meyer - folker.meyer@uni-due.de
-Ryan Aydelott - ryan.aydelott@uk-essen.de
-Dr. Ivana Kraiselburd - ivana.kraiselburd@uni-due.de
+Prof. Folker Meyer - folker.meyer@uni-due.de   
+Ryan Aydelott - ryan.aydelott@uk-essen.de   
+Dr. Ivana Kraiselburd - ivana.kraiselburd@uni-due.de   
