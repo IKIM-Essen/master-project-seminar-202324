@@ -42,6 +42,12 @@ So far the module is planned as virtual only and a meeting takes place every mon
 | Variant calling | Identification of represented variants|
 | Lineage Assignment | Identification of represented lineages |
 
+## Learning videos
+
+https://www.youtube.com/watch?v=TNKWgcFPHqw
+https://www.youtube.com/watch?v=gG7uCskUOrA
+https://www.youtube.com/watch?v=jX3MhWWi6n4
+
 ## Contacts
    
 Dr. Simon Magin - simon.magin@uni-due.de          
