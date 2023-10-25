@@ -44,9 +44,9 @@ So far the module is planned as virtual only and a meeting takes place every mon
 
 ## Learning videos
 
-https://www.youtube.com/watch?v=TNKWgcFPHqw
-https://www.youtube.com/watch?v=gG7uCskUOrA
-https://www.youtube.com/watch?v=jX3MhWWi6n4
+https://www.youtube.com/watch?v=TNKWgcFPHqw   
+https://www.youtube.com/watch?v=gG7uCskUOrA   
+https://www.youtube.com/watch?v=jX3MhWWi6n4   
 
 ## Contacts
    
