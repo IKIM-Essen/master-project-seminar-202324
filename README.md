@@ -26,8 +26,9 @@ So far the module is planned as virtual only and a meeting takes place every mon
 | 14 | 29.01.2024 | Final Presentations | Folker Meyer |
 
 ## Presentation topics
-Here you can find the presentation topics and when and by whom they will be presented. Students are shown with their intials, e.g. Prof Folker Meyer would be FM.    
-Detailed information for the presentation topics can be found in the 'presentation_topics.md' file.   
+Here you can find the presentation topics and when and by whom they will be presented. Students are shown with their intials, e.g. Prof. Folker Meyer would be FM.    
+Detailed information for the presentation topics can be found in the 'presentation_topics.md' file.
+
 Please get in touch with the persons responsible for the date you'll give your presentation. We want to have a meeting with each student to see that there are no major misunderstandings and to answer questions.
 
 | Date | Topic | Student | Responsible Persons |
