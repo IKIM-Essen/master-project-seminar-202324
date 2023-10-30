@@ -10,14 +10,14 @@ So far the module is planned as virtual only and a meeting takes place every mon
 
 | Day | Date | Topics | Lecturers |
 | :---: | :----: | :---: | :---: |
-| 1 | 16.10.2023 | Introduction, Questions, Presentation Topics | Folker Meyer, Hendrik Schmidt, Alexander Thomas |
-| 2 | 23.10.2023 | Biology basics, Viruses | Folker Meyer, Simon Magin |
-| 3 | 30.10.2023 | Conda, Bioinformatic Basics, Git, Reproducibility | Hendrik Schmidt, Alexander Thomas, Folker Meyer |
+| 1 | 16.10.2023 | Introduction, Questions, Presentation Topics | Folker Meyer |
+| 2 | 23.10.2023 | Biology basics, Viruses | Ivana Kraiselburd |
+| 3 | 30.10.2023 | Conda, Bioinformatic Basics, Git, Reproducibility | Folker Meyer |
 | 4 | 06.11.2023 | Snakemake | Johannes Köster |
-| 5 | 13.11.2023 | Sequence Processing Presentations | Simon Magin |
-| 6 | 20.11.2023 | Genome Reconstruction Presentations | Katharina Block, Ann-Kathrin Brüggemann |
-| 7 | 27.11.2023 | Genome Analysis Presentations |Ann-Kathrin Brüggemann |
-| 8 | 04.12.2023 | Lineage Assignment Presentations | Josefa Welling |
+| 5 | 13.11.2023 | Sequence Processing Presentations | Adrian Doerr, Simon Magin |
+| 6 | 20.11.2023 | Genome Reconstruction Presentations | Josefa Welling, Ann-Kathrin Brüggemann |
+| 7 | 27.11.2023 | Genome Analysis Presentations | Ivana Kraiselburd, Folker Meyer |
+| 8 | 04.12.2023 | Lineage Assignment Presentations | Alexander Thomas, Josefa Welling |
 | 9 | 11.12.2023 | Q&A - Help session | all |
 | 10 | 18.12.2023 | Q&A - Help session | all |
 | 11 | 08.01.2024 | Q&A - Help session | all |
@@ -26,21 +26,26 @@ So far the module is planned as virtual only and a meeting takes place every mon
 | 14 | 29.01.2024 | Final Presentations | Folker Meyer |
 
 ## Presentation topics
+Here you can find the presentation topics and when and by whom they will be presented (students with intials, e.g. Prof Folker Meyer would be FM).    
+Please get in touch with the persons responsible for the date you'll give your presentation. We want to have a meeting with each student to see that there are no major misunderstandings and to answer questions.
 
-|Topic | Description |
-| :---: | :---: |
-| Bioinformatics and covid | Basics concerning SARS-CoV-2 analysis in bioinformatics |
-| Sequencing Technologies | Illumina, Nanopore etc. |
-| Quality control (QC) | Checking of data reliablility |
-| Trimming and filtering | Bias and error reduction |
-| Alignment 1 | Sequence analysis - Algorithm |
-| Alignment 2 | Sequence analysis - Implementation |
-| Assembly 1 | Reconstructing Sequences - Algorithm |
-| Assembly 2 | Reconstructing Sequences - Implementation |
-| Scaffolding | Linking of genomic sequences |
-| Assembly control | Ranking of assemblies |
-| Variant calling | Identification of represented variants|
-| Lineage Assignment | Identification of represented lineages |
+| Date | Topic | Description | Student | Responsible Persons |
+| :---: | :---: | :---: | :---: | :---: |
+| 13.11.2023 | Bioinformatics and covid | Basics concerning SARS-CoV-2 analysis in bioinformatics | KH | Adrian Doerr, Simon Magin |
+| 13.11.2023 | Sequencing Technologies | Illumina, Nanopore etc. | MA | Adrian Doerr, Simon Magin |
+| 13.11.2023 | Quality control (QC) | Checking of data reliablility | DK | Adrian Doerr, Simon Magin |
+||||||
+| 20.11.2023 | Trimming and filtering | Bias and error reduction | JK | Josefa Welling, Ann-Kathrin Brüggemann |
+| 20.11.2023 | Alignment 1 | Sequence analysis - Algorithm | CH | Josefa Welling, Ann-Kathrin Brüggemann |
+| 20.11.2023 | Alignment 2 | Sequence analysis - Implementation | YA | Josefa Welling, Ann-Kathrin Brüggemann |
+||||||
+| 27.11.2023 | Assembly 1 | Reconstructing Sequences - Algorithm | SP | Ivana Kraiselburd, Folker Meyer |
+| 27.11.2023 | Assembly 2 | Reconstructing Sequences - Implementation | AA | Ivana Kraiselburd, Folker Meyer |
+| 27.11.2023 | Scaffolding | Linking of genomic sequences | MT | Ivana Kraiselburd, Folker Meyer |
+||||||
+| 04.12.2023 | Assembly control | Ranking of assemblies | HK | Alexander Thomas, Josefa Welling |
+| 04.12.2023 | Variant calling | Identification of represented variants | JZ | Alexander Thomas, Josefa Welling |
+| 04.12.2023 | Lineage Assignment | Identification of represented lineages | JT | Alexander Thomas, Josefa Welling |
 
 ## Learning videos
 
@@ -55,6 +60,5 @@ Alexander Thomas  - alexander.thomas@uni-due.de, alexander.thomas@uk-essen.de
 Ann-Kathrin Brüggemann - ann-kathrin.brueggemann@uni-due.de, ann-kathrin.brueggemann@uk-essen.de      
 Adrian Doerr - adrian.doerr@uni-due.de, adrian.doerr@uk-essen.de       
 Josefa Welling - josefa.welling@uni-due.de, josefa.welling@uk-essen.de      
-Prof. Folker Meyer - folker.meyer@uni-due.de   
-Ryan Aydelott - ryan.aydelott@uk-essen.de   
+Prof. Folker Meyer - folker.meyer@uni-due.de     
 Dr. Ivana Kraiselburd - ivana.kraiselburd@uni-due.de   
