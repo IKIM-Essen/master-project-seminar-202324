@@ -26,26 +26,27 @@ So far the module is planned as virtual only and a meeting takes place every mon
 | 14 | 29.01.2024 | Final Presentations | Folker Meyer |
 
 ## Presentation topics
-Here you can find the presentation topics and when and by whom they will be presented (students with intials, e.g. Prof Folker Meyer would be FM).    
+Here you can find the presentation topics and when and by whom they will be presented. Students are shown with their intials, e.g. Prof Folker Meyer would be FM.    
+Detailed information for the presentation topics can be found in the 'presentation_topics.md' file.   
 Please get in touch with the persons responsible for the date you'll give your presentation. We want to have a meeting with each student to see that there are no major misunderstandings and to answer questions.
 
-| Date | Topic | Description | Student | Responsible Persons |
-| :---: | :---: | :---: | :---: | :---: |
-| 13.11.2023 | Bioinformatics and covid | Basics concerning SARS-CoV-2 analysis in bioinformatics | KH | Adrian Doerr, Simon Magin |
-| 13.11.2023 | Sequencing Technologies | Illumina, Nanopore etc. | MA | Adrian Doerr, Simon Magin |
-| 13.11.2023 | Quality control (QC) | Checking of data reliablility | DK | Adrian Doerr, Simon Magin |
+| Date | Topic | Student | Responsible Persons |
+| :---: | :---: | :---: | :---: |
+| 13.11.2023 | Bioinformatics and covid | KH | Adrian Doerr, Simon Magin |
+| 13.11.2023 | Sequencing Technologies | MA | Adrian Doerr, Simon Magin |
+| 13.11.2023 | Quality control (QC) | DK | Adrian Doerr, Simon Magin |
 ||||||
-| 20.11.2023 | Trimming and filtering | Bias and error reduction | JK | Josefa Welling, Ann-Kathrin Brüggemann |
-| 20.11.2023 | Alignment 1 | Sequence analysis - Algorithm | CH | Josefa Welling, Ann-Kathrin Brüggemann |
-| 20.11.2023 | Alignment 2 | Sequence analysis - Implementation | YA | Josefa Welling, Ann-Kathrin Brüggemann |
+| 20.11.2023 | Trimming and filtering | JK | Josefa Welling, Ann-Kathrin Brüggemann |
+| 20.11.2023 | Alignment 1 | CH | Josefa Welling, Ann-Kathrin Brüggemann |
+| 20.11.2023 | Alignment 2 | YA | Josefa Welling, Ann-Kathrin Brüggemann |
 ||||||
-| 27.11.2023 | Assembly 1 | Reconstructing Sequences - Algorithm | SP | Ivana Kraiselburd, Folker Meyer |
-| 27.11.2023 | Assembly 2 | Reconstructing Sequences - Implementation | AA | Ivana Kraiselburd, Folker Meyer |
-| 27.11.2023 | Scaffolding | Linking of genomic sequences | MT | Ivana Kraiselburd, Folker Meyer |
+| 27.11.2023 | Assembly 1 | SP | Ivana Kraiselburd, Folker Meyer |
+| 27.11.2023 | Assembly 2 | AA | Ivana Kraiselburd, Folker Meyer |
+| 27.11.2023 | Scaffolding | MT | Ivana Kraiselburd, Folker Meyer |
 ||||||
-| 04.12.2023 | Assembly control | Ranking of assemblies | HK | Alexander Thomas, Josefa Welling |
-| 04.12.2023 | Variant calling | Identification of represented variants | JZ | Alexander Thomas, Josefa Welling |
-| 04.12.2023 | Lineage Assignment | Identification of represented lineages | JT | Alexander Thomas, Josefa Welling |
+| 04.12.2023 | Assembly control | HK | Alexander Thomas, Josefa Welling |
+| 04.12.2023 | Variant calling | JZ | Alexander Thomas, Josefa Welling |
+| 04.12.2023 | Lineage Assignment | JT | Alexander Thomas, Josefa Welling |
 
 ## Learning videos
 
