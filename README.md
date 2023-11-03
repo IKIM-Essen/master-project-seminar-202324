@@ -57,7 +57,7 @@ https://www.youtube.com/watch?v=jX3MhWWi6n4
 
 ## Contacts
    
-Dr. Simon Magin - simon.magin@uni-due.de          
+Dr. Simon Magin - Simon.Magin@uk-essen.de          
 Alexander Thomas  - alexander.thomas@uni-due.de, alexander.thomas@uk-essen.de     
 Ann-Kathrin Brüggemann - ann-kathrin.brueggemann@uni-due.de, ann-kathrin.brueggemann@uk-essen.de      
 Adrian Doerr - adrian.doerr@uni-due.de, adrian.doerr@uk-essen.de       
