@@ -37,13 +37,13 @@ Please get in touch with the persons responsible for the date you'll give your p
 | 13.11.2023 | Sequencing Technologies | MA | Adrian Doerr, Simon Magin |
 | 13.11.2023 | Quality control (QC) | DK | Adrian Doerr, Simon Magin |
 ||||||
-| 20.11.2023 | Trimming and filtering | JK | Josefa Welling, Ann-Kathrin Brüggemann |
-| 20.11.2023 | Alignment 1 | CH | Josefa Welling, Ann-Kathrin Brüggemann |
-| 20.11.2023 | Alignment 2 | YA | Josefa Welling, Ann-Kathrin Brüggemann |
+| 20.11.2023 | Trimming and filtering | JK | Adrian Doerr, Ann-Kathrin Brüggemann |
+| 20.11.2023 | Alignment 1 | CH | Adrian Doerr, Ann-Kathrin Brüggemann |
+| 20.11.2023 | Alignment 2 | YA | Adrian Doerr, Ann-Kathrin Brüggemann |
 ||||||
-| 27.11.2023 | Assembly 1 | SP | Ivana Kraiselburd, Folker Meyer |
-| 27.11.2023 | Assembly 2 | AA | Ivana Kraiselburd, Folker Meyer |
-| 27.11.2023 | Scaffolding | MT | Ivana Kraiselburd, Folker Meyer |
+| 27.11.2023 | Assembly 1 | SP | Josefa Welling, Folker Meyer |
+| 27.11.2023 | Assembly 2 | AA | Josefa Welling, Folker Meyer |
+| 27.11.2023 | Scaffolding | MT | Josefa Welling, Folker Meyer |
 ||||||
 | 04.12.2023 | Assembly control | HK | Alexander Thomas, Josefa Welling |
 | 04.12.2023 | Variant calling | JZ | Alexander Thomas, Josefa Welling |
