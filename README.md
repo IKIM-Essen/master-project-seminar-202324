@@ -20,7 +20,7 @@ So far the module is planned as virtual only and a meeting takes place every mon
 | 8 | 04.12.2023 | Lineage Assignment Presentations | Alexander Thomas, Josefa Welling |
 | 9 | 11.12.2023 | Q&A - Help session | all |
 | 10 | 18.12.2023 | Q&A - Help session | all |
-| 11 | 08.01.2024 | Q&A - Help session | all |
+| 11 | 08.01.2024 | Q&A - Help session | cancelled |
 | 12 | 15.01.2024 | Q&A - Help session | all |
 | 13 | 22.01.2024 | Q&A - Help session | all |
 | 14 | 29.01.2024 | Final Presentations | Folker Meyer |
