@@ -23,7 +23,7 @@ So far the module is planned as virtual only and a meeting takes place every mon
 | 11 | 08.01.2024 | Q&A - Help session | cancelled |
 | 12 | 15.01.2024 | Q&A - Help session | all |
 | 13 | 22.01.2024 | Q&A - Help session | all |
-| 14 | 29.01.2024 | Final Presentations | Folker Meyer |
+| 14 | 29.01.2024 | Q&A - Help session | all |
 
 ## Presentation topics
 Here you can find the presentation topics and when and by whom they will be presented. Students are shown with their intials, e.g. Prof. Folker Meyer would be FM.    
